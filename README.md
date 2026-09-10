@@ -21,7 +21,7 @@ The system also supports temperature conversion between **Celsius, Fahrenheit, a
 ## 📸 Project Snapshot
 
 <p align="center">
-  <img src="snapshot.jpeg" alt="Smart Temperature Monitoring System" width="850">
+  <img src="snapshot.jpeg" alt="Smart Temperature Monitoring System" width="450">
 </p>
 
 ---
