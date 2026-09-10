@@ -197,4 +197,3 @@ The system can be adapted for a variety of temperature-monitoring applications, 
 - 🏢 HVAC monitoring
 - 🌡️ Environmental monitoring
 - ⚙️ FPGA-based embedded monitoring systems
-````
